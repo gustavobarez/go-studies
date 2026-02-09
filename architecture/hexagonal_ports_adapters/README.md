@@ -1,7 +1,7 @@
 # Golang Hexagonal with Ports and Adapters
 
 <p align="center">
-  <img src="/assets/background.png" alt="GoAPI Header">
+  <img src="/assets/go-api.png" alt="GoAPI Header">
 </p>
 
 ## Hexagonal, o que é isso?

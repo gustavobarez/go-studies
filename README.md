@@ -1,5 +1,5 @@
 # Golang Studies
 
 <p align="center">
-  <img src="/assets/background.png" alt="Gopher Header">
+  <img src="/assets/go-studies.png" alt="Gopher Header">
 </p>
