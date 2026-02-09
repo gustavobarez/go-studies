@@ -1,1 +1,0 @@
-# Golang with Adapters only
